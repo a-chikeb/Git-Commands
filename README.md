@@ -1,6 +1,8 @@
-<img src="https://git-scm.com/images/logos/downloads/Git-Logo-White.png" alt="Git Logo" style="width:200px;display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
+<div id="img" style="display: block;margin-left: auto;margin-right: auto;width: 50%;">
+<img src="https://git-scm.com/images/logos/downloads/Git-Logo-White.png" alt="Git Logo" style="width:400px;"/>
+</div>
 
-# Top 20 Git Commands 
+# 👨‍💻 Top 20 Git Commands 
 
 ### In this repository, I will talk about the top 20 Git commands that you will use frequently when working with Git.
 - ```git config```
@@ -37,7 +39,7 @@ This command is used to start a new repository.<br><br>
 <hr>
 
 ## git clone <br>
-Usage: ```git clone [url] ``` <br>
+Usage: ```sh git clone [url] ``` <br>
 This command is used to obtain a repository from an existing URL.<br><br>
 <img src="./images/gitclone.png" style="width:100%">
 <hr>
