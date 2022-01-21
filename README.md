@@ -1,5 +1,5 @@
 <div id="img" style="display: block;margin-left: auto;margin-right: auto;width: 50%;">
-<img style="margin: 0 auto;display: block;" src="https://git-scm.com/images/logos/downloads/Git-Logo-White.png" alt="Git Logo" style="width:400px;"/>
+<img style="margin: 0 auto;display: block;width:400px;" src="https://git-scm.com/images/logos/downloads/Git-Logo-White.png" alt="Git Logo"/>
 </div>
 
 # 👨‍💻 Top 20 Git Commands 
